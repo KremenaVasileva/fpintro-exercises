@@ -2,3 +2,4 @@
 .idea
 out/
 build/
+src/main/java/org/example/chapter8/PasswordHasher.java
